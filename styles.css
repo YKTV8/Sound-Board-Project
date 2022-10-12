@@ -11,14 +11,15 @@ body{
     margin: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
+    background-image: url('https://www.penbaypilot.com/sites/default/local/styles/node_primary/public/2019/04/field/image/56571144_2270164176643879_3917591854257799168_n.jpg?itok=e_u54rC8');
     background-color: rgb(246, 188, 100);
 }
 
 .btn{
-    background-color: rgb(70, 80, 60);
+    background-color: yellow;
     border-radius: 5px;
     border: none;
-    color: white;
+    color: rgb(0, 0, 255);
     margin: 1rem;
     padding: 1.5rem 3rem;
     font-size: 1.2rem;
