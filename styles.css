@@ -33,3 +33,16 @@ body{
 .btn:hover{
     opacity: 0.9;
 }
+@media screen and (min-width:100px) and (max-width:850px) {
+    body{
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        background-position: 60%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url('https://www.penbaypilot.com/sites/default/local/styles/node_primary/public/2019/04/field/image/56571144_2270164176643879_3917591854257799168_n.jpg?itok=e_u54rC8');
+        background-color: rgb(246, 188, 100);
+        overflow-y: scroll;
+    }
+}
